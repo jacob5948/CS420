@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T19:50:08.704Z" agent="5.0 (Macintosh)" etag="nMGD-6qw8ephj5mC3R2C" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T19:56:19.691Z" agent="5.0 (Macintosh)" etag="TwZjp6U34eFRx5IDznVF" version="15.2.7" type="github">
   <diagram id="J1I_I8joS9Wcs13R1j_C" name="Page-1">
-    <mxGraphModel dx="1403" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="459" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,81 @@
         </mxCell>
         <mxCell id="ELMtdARnUCFMFokrfSqK-20" value="Set crops as harvested and specify yield" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=#E6E6E6;fillColor=#E6E6E6;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="125" y="950" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-1" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-2" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-3" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-4" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="930" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-6" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctOcrTvs5EJIbW--Lxd5-8" target="ctOcrTvs5EJIbW--Lxd5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-8" value="&lt;div&gt;&lt;b&gt;Farmer&lt;/b&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-9" value="View crop yield over time" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=#E6E6E6;fillColor=#E6E6E6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="70" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctOcrTvs5EJIbW--Lxd5-11" target="ctOcrTvs5EJIbW--Lxd5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-11" value="&lt;div&gt;&lt;b&gt;Farmer&lt;/b&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-12" value="View potential profit on harvested crops" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=#E6E6E6;fillColor=#E6E6E6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="290" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctOcrTvs5EJIbW--Lxd5-14" target="ctOcrTvs5EJIbW--Lxd5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-14" value="&lt;div&gt;&lt;b&gt;Farmer&lt;/b&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-15" value="View arial map of the farm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=#E6E6E6;fillColor=#E6E6E6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="510" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctOcrTvs5EJIbW--Lxd5-17" target="ctOcrTvs5EJIbW--Lxd5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-17" value="&lt;b&gt;Admin&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="730" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-18" value="View drone reports" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=#E6E6E6;fillColor=#E6E6E6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="730" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctOcrTvs5EJIbW--Lxd5-20" target="ctOcrTvs5EJIbW--Lxd5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-20" value="&lt;div&gt;&lt;b&gt;Farmer&lt;/b&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="950" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-21" value="View anomalies (Bug infestation, animals)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=#E6E6E6;fillColor=#E6E6E6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="950" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-22" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="760" y="50" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-23" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="760" y="270" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-24" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="760" y="490" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-25" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="760" y="930" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctOcrTvs5EJIbW--Lxd5-26" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Brief Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Step-by-Step Description&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="760" y="710" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
